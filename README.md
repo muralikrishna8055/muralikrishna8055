@@ -1,15 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there <coders/>👋</h1>
 
 ###
 
-<p align="left">My name is Murali Krishna and I'm a Full Stack Developer</p>
+<p align="left"> I'm Murali Krishna  </p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
+<p align="left">🎓BCA Graduate</p>
 <p align="left">✨ As a self-motivated developer, I approach each day with enthusiasm for learning and growth. Proficient in both frontend and backend technologies,with expertise in both monolithic and microservices, I love tackling engineering problems to deliver value to the environment and stakeholders.  With a dynamic and forward-thinking approach, I am committed to continuous learning and improvement.</p>
 
 ###
