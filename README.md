@@ -11,7 +11,7 @@
 ###
 <p align="left">🎓 BCA Graduate</p>
 <p align="left">👨‍💻 Full Stack Developer (Java,Angular)</p>
-
+<p align="left">🎯 Focusing</p>
 <p align="left">✨ As a self-motivated developer, I approach each day with enthusiasm for learning and growth. Proficient in both frontend and backend technologies,with expertise in both monolithic and microservices, I love tackling engineering problems to deliver value to the environment and stakeholders.  With a dynamic and forward-thinking approach, I am committed to continuous learning and improvement.</p>
 
 ###
