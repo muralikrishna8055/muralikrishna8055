@@ -15,7 +15,7 @@
 <p align="left">✨ As a self-motivated developer, I approach each day with enthusiasm for learning and growth. Proficient in both frontend and backend technologies,with expertise in both monolithic and microservices, I love tackling engineering problems to deliver value to the environment and stakeholders.  With a dynamic and forward-thinking approach, I am committed to continuous learning and improvement.</p>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratna2&label=Profile%20views&color=0e75b6&style=flat" alt="ratna2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muralikrishna8055&label=Profile%20views&color=0e75b6&style=flat" alt="muralikrishna8055" /> </p>
 <h2 align="left">I code with</h2>
 
 ###
