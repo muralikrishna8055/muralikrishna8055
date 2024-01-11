@@ -1,3 +1,6 @@
+<img align="right" width="400" src="https://i.gifer.com/4I9G.gif">
+
+
 <h1 align="left">Hi there <coders/>👋</h1>
 
 ###
