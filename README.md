@@ -58,13 +58,17 @@
 
 
 # 📊 GitHub Stats:
-<div>
-![](https://github-readme-stats.vercel.app/api?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=muralikrishna8055&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-</div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=muralikrishna8055&theme=merko&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+
+
+
+
+
 
 
