@@ -14,7 +14,7 @@
 ###
 <p align="left">- 🎓 BCA Graduate</p>
 <p align="left">- 👨‍💻 Full Stack Developer (Java,Angular)</p>
-- 📫 How to reach me mailstomuralikrishna@gmail.com
+<p align="left">- 📫 How to reach me mailstomuralikrishna@gmail.com</p>
 <p align="left">- 🎯 Focusing</p>
 <p align="left">- ✨ As a self-motivated developer, I approach each day with enthusiasm for learning and growth. Proficient in both frontend and backend technologies,with expertise in both monolithic and microservices, I love tackling  problems to deliver value to the environment and stakeholders.  With a dynamic and forward-thinking approach, I am committed to continuous learning and improvement.</p>
 
