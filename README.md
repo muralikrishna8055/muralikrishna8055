@@ -1,6 +1,5 @@
 <img align="right" width="400" src="https://i.gifer.com/4I9G.gif">
 
-
 <h1 align="left">Hi there <coders/>👋</h1>
 
 ###
@@ -51,9 +50,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/murali-krishna-4a68a1265" target="_blank">
+  <a href="https://www.linkedin.com/in/murali-krishna-linked-in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
+
+
+
+
