@@ -60,7 +60,7 @@ As a self-motivated developer, I approach each day with enthusiasm for learning 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna8055&theme=merko&hide_border=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muralikrishna8055&theme=merko&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muralikrishna8055&theme=merko&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=muralikrishna8055&theme=merko&hide_border=true" alt="GitHub Stats" />
 </p>
 
