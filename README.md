@@ -10,7 +10,8 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">- 🎓 BCA Graduate</p>
+<p align="left">- 🎓 MCA [ 2026 ]</p>
+<p align="left">- 🎓 BCA [ 2023 ]</p>
 <p align="left">- 👨‍💻 Full Stack Developer (Java,Angular)</p>
 <p align="left">- 📫 How to reach me mailstomuralikrishna@gmail.com</p>
 <p align="left">- 🎯 Focusing</p>
