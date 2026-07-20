@@ -54,7 +54,12 @@ As a self-motivated developer, I approach each day with enthusiasm for learning 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muralikrishna8055&theme=merko&hide_border=true" alt="Streak Stats" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+
+
