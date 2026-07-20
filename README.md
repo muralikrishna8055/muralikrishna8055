@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** MCA (`2026`) • BCA (`2023`)
-- 💻 **Role:** Full Stack Developer (Java & Angular)
+- 💻 **Role:** Developer (Java )
 - 🎯 **Focusing on:** Microservices Architecture, Enterprise Solutions & Scalable Systems
 - 📫 **Reach Me:** <a href="mailto:mailstomuralikrishna@gmail.com">mailstomuralikrishna@gmail.com</a>
 
