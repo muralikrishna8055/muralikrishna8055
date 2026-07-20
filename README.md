@@ -59,5 +59,11 @@ As a self-motivated developer, I approach each day with enthusiasm for learning 
   <img src="https://github-readme-stats.vercel.app/api?username=muralikrishna8055&theme=merko&hide_border=true" alt="GitHub Stats" />
 </p>
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=muralikrishna8055&theme=merko&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna8055&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 
 
